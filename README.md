@@ -75,10 +75,3 @@ src/
 
 5. Open your browser and visit `http://localhost:3000` to view the application.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
